@@ -1,0 +1,28 @@
+section,category,n,pct
+Occupation,Student only,8,33.333333333333336
+Occupation,Student and practitioner,14,58.333333333333336
+Occupation,Practitioner (not a student),2,8.333333333333334
+Student level,Bachelor's,19,79.16666666666667
+Student level,Master's,2,8.333333333333334
+Student level,PhD,1,4.166666666666667
+Highest completed education,Secondary school,19,79.16666666666667
+Highest completed education,Bachelor's degree,2,8.333333333333334
+Highest completed education,Master's degree,2,8.333333333333334
+Highest completed education,Doctorate,1,4.166666666666667
+Programming experience,$<$ 1 year,4,16.666666666666668
+Programming experience,1--3 years,9,37.5
+Programming experience,3--5 years,6,25.0
+Programming experience,5--10 years,3,12.5
+Programming experience,$\geq$ 10 years,2,8.333333333333334
+Java experience,None,10,41.666666666666664
+Java experience,$<$ 1 year,10,41.666666666666664
+Java experience,1--5 years,1,4.166666666666667
+Java experience,$\geq$ 5 years,2,8.333333333333334
+Java experience,Not reported,1,4.166666666666667
+Familiarity with code smells,Knows them (may have used tools),11,45.833333333333336
+Familiarity with code smells,"Heard of them, never dug deeper",12,50.0
+Familiarity with code smells,First heard of them in this study,1,4.166666666666667
+Self-reported ability to recognize,Long Method,21,87.5
+Self-reported ability to recognize,Data Class,20,83.33333333333333
+Self-reported ability to recognize,Feature Envy,14,58.333333333333336
+Self-reported ability to recognize,All three,12,50.0

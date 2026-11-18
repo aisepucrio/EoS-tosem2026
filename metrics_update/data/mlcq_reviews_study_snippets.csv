@@ -1,0 +1,67 @@
+id,reviewer_id,sample_id,smell,severity,review_timestamp,type,code_name
+1994,3,3922485,feature envy,minor,2019-04-01 10:45:52.531489,function,org.apache.aries.rsa.provider.fastbin.tcp.TcpTransport#connected SocketChannel
+14496,4,3922485,feature envy,minor,2019-09-11 14:03:11.884055,function,org.apache.aries.rsa.provider.fastbin.tcp.TcpTransport#connected SocketChannel
+1993,3,3922485,long method,none,2019-04-01 10:45:52.531077,function,org.apache.aries.rsa.provider.fastbin.tcp.TcpTransport#connected SocketChannel
+14495,4,3922485,long method,none,2019-09-11 14:03:11.861326,function,org.apache.aries.rsa.provider.fastbin.tcp.TcpTransport#connected SocketChannel
+3254,20,4066245,blob,none,2019-04-05 12:47:28.161713,class,org.apache.beam.sdk.io.cassandra.CassandraIO.Write.Builder
+10508,28,4066245,blob,none,2019-07-26 11:06:50.296241,class,org.apache.beam.sdk.io.cassandra.CassandraIO.Write.Builder
+10736,4,4066245,blob,none,2019-07-26 19:52:03.665360,class,org.apache.beam.sdk.io.cassandra.CassandraIO.Write.Builder
+11338,3,4066245,blob,none,2019-08-04 21:52:51.808124,class,org.apache.beam.sdk.io.cassandra.CassandraIO.Write.Builder
+3255,20,4066245,data class,major,2019-04-05 12:47:28.162493,class,org.apache.beam.sdk.io.cassandra.CassandraIO.Write.Builder
+10507,28,4066245,data class,none,2019-07-26 11:06:50.295832,class,org.apache.beam.sdk.io.cassandra.CassandraIO.Write.Builder
+10735,4,4066245,data class,none,2019-07-26 19:52:03.664261,class,org.apache.beam.sdk.io.cassandra.CassandraIO.Write.Builder
+11339,3,4066245,data class,minor,2019-08-04 21:52:51.808988,class,org.apache.beam.sdk.io.cassandra.CassandraIO.Write.Builder
+2737,20,4092105,feature envy,none,2019-04-05 12:08:06.763054,function,org.apache.asterix.transaction.management.service.logging.LogManager#getOrderedLogFileIds
+12769,3,4092105,feature envy,none,2019-08-06 21:11:48.305449,function,org.apache.asterix.transaction.management.service.logging.LogManager#getOrderedLogFileIds
+14376,4,4092105,feature envy,minor,2019-09-08 21:15:29.564413,function,org.apache.asterix.transaction.management.service.logging.LogManager#getOrderedLogFileIds
+2738,20,4092105,long method,critical,2019-04-05 12:08:06.763831,function,org.apache.asterix.transaction.management.service.logging.LogManager#getOrderedLogFileIds
+12768,3,4092105,long method,minor,2019-08-06 21:11:48.304861,function,org.apache.asterix.transaction.management.service.logging.LogManager#getOrderedLogFileIds
+14375,4,4092105,long method,minor,2019-09-08 21:15:29.553188,function,org.apache.asterix.transaction.management.service.logging.LogManager#getOrderedLogFileIds
+742,10,6299837,feature envy,major,2019-03-29 12:40:50.950972,function,org.eclipse.jetty.websocket.common.util.ReflectUtils.resolveGenericRef GenericRef|Class<?>|Type
+10574,13,6299837,feature envy,major,2019-07-26 12:14:03.445621,function,org.eclipse.jetty.websocket.common.util.ReflectUtils.resolveGenericRef GenericRef|Class<?>|Type
+11173,3,6299837,feature envy,minor,2019-08-02 12:50:17.164370,function,org.eclipse.jetty.websocket.common.util.ReflectUtils.resolveGenericRef GenericRef|Class<?>|Type
+743,10,6299837,long method,minor,2019-03-29 12:40:50.959185,function,org.eclipse.jetty.websocket.common.util.ReflectUtils.resolveGenericRef GenericRef|Class<?>|Type
+10573,13,6299837,long method,minor,2019-07-26 12:14:03.445387,function,org.eclipse.jetty.websocket.common.util.ReflectUtils.resolveGenericRef GenericRef|Class<?>|Type
+11172,3,6299837,long method,minor,2019-08-02 12:50:17.163535,function,org.eclipse.jetty.websocket.common.util.ReflectUtils.resolveGenericRef GenericRef|Class<?>|Type
+776,10,6312810,blob,none,2019-03-29 13:10:08.126123,class,org.eclipse.kapua.service.job.execution.internal.JobExecutionFactoryImpl
+777,10,6312810,data class,none,2019-03-29 13:10:08.130332,class,org.eclipse.kapua.service.job.execution.internal.JobExecutionFactoryImpl
+755,4,6328221,feature envy,none,2019-03-29 13:05:59.410873,function,org.eclipse.kura.web.shared.GwtKuraException#format String|Object[]
+10356,5,6328221,feature envy,none,2019-07-26 09:28:28.547967,function,org.eclipse.kura.web.shared.GwtKuraException#format String|Object[]
+12004,3,6328221,feature envy,none,2019-08-05 23:24:18.864352,function,org.eclipse.kura.web.shared.GwtKuraException#format String|Object[]
+754,4,6328221,long method,minor,2019-03-29 13:05:59.325233,function,org.eclipse.kura.web.shared.GwtKuraException#format String|Object[]
+10355,5,6328221,long method,none,2019-07-26 09:28:28.547610,function,org.eclipse.kura.web.shared.GwtKuraException#format String|Object[]
+12005,3,6328221,long method,none,2019-08-05 23:24:18.867741,function,org.eclipse.kura.web.shared.GwtKuraException#format String|Object[]
+812,4,6457553,feature envy,none,2019-03-29 13:13:04.326832,function,org.apache.jasper.compiler.ParserController#getPageEncodingFromDirective Attributes|String
+813,4,6457553,long method,none,2019-03-29 13:13:04.363218,function,org.apache.jasper.compiler.ParserController#getPageEncodingFromDirective Attributes|String
+3061,14,7186067,feature envy,critical,2019-04-05 12:31:24.275918,function,com.oracle.bmc.budget.model.CreateBudgetDetails.Builder#build
+12179,3,7186067,feature envy,none,2019-08-06 08:15:47.710561,function,com.oracle.bmc.budget.model.CreateBudgetDetails.Builder#build
+14118,21,7186067,feature envy,minor,2019-09-02 08:42:20.680368,function,com.oracle.bmc.budget.model.CreateBudgetDetails.Builder#build
+14452,4,7186067,feature envy,none,2019-09-11 13:09:34.876564,function,com.oracle.bmc.budget.model.CreateBudgetDetails.Builder#build
+3060,14,7186067,long method,minor,2019-04-05 12:31:24.169722,function,com.oracle.bmc.budget.model.CreateBudgetDetails.Builder#build
+12178,3,7186067,long method,none,2019-08-06 08:15:47.709862,function,com.oracle.bmc.budget.model.CreateBudgetDetails.Builder#build
+14117,21,7186067,long method,none,2019-09-02 08:42:20.679739,function,com.oracle.bmc.budget.model.CreateBudgetDetails.Builder#build
+14451,4,7186067,long method,none,2019-09-11 13:09:34.876153,function,com.oracle.bmc.budget.model.CreateBudgetDetails.Builder#build
+4935,20,7617518,blob,none,2019-04-12 14:42:11.202728,class,org.springframework.ide.eclipse.wizard.template.infrastructure.ui.WizardUIInfoPage
+10236,16,7617518,blob,none,2019-07-26 00:12:33.225191,class,org.springframework.ide.eclipse.wizard.template.infrastructure.ui.WizardUIInfoPage
+11766,3,7617518,blob,none,2019-08-05 19:38:19.512014,class,org.springframework.ide.eclipse.wizard.template.infrastructure.ui.WizardUIInfoPage
+4936,20,7617518,data class,minor,2019-04-12 14:42:11.212265,class,org.springframework.ide.eclipse.wizard.template.infrastructure.ui.WizardUIInfoPage
+10235,16,7617518,data class,minor,2019-07-26 00:12:33.224241,class,org.springframework.ide.eclipse.wizard.template.infrastructure.ui.WizardUIInfoPage
+11767,3,7617518,data class,none,2019-08-05 19:38:19.514681,class,org.springframework.ide.eclipse.wizard.template.infrastructure.ui.WizardUIInfoPage
+9747,10,7942242,blob,none,2019-07-24 11:16:05.319637,class,org.eclipse.texlipse.builder.XelatexRunner
+11697,3,7942242,blob,none,2019-08-05 15:47:01.116941,class,org.eclipse.texlipse.builder.XelatexRunner
+12989,20,7942242,blob,none,2019-08-16 13:36:26.110720,class,org.eclipse.texlipse.builder.XelatexRunner
+9748,10,7942242,data class,critical,2019-07-24 11:16:05.320191,class,org.eclipse.texlipse.builder.XelatexRunner
+11696,3,7942242,data class,none,2019-08-05 15:47:01.116543,class,org.eclipse.texlipse.builder.XelatexRunner
+12990,20,7942242,data class,none,2019-08-16 13:36:26.116263,class,org.eclipse.texlipse.builder.XelatexRunner
+9457,4,8494231,feature envy,minor,2019-07-23 20:15:59.584836,function,com.cloud.resource.ResourceManagerImpl#discoverHosts AddHostCmd
+10121,3,8494231,feature envy,none,2019-07-25 12:52:52.845199,function,com.cloud.resource.ResourceManagerImpl#discoverHosts AddHostCmd
+14144,21,8494231,feature envy,minor,2019-09-02 08:59:41.511715,function,com.cloud.resource.ResourceManagerImpl#discoverHosts AddHostCmd
+9456,4,8494231,long method,minor,2019-07-23 20:15:59.579555,function,com.cloud.resource.ResourceManagerImpl#discoverHosts AddHostCmd
+10122,3,8494231,long method,major,2019-07-25 12:52:52.844246,function,com.cloud.resource.ResourceManagerImpl#discoverHosts AddHostCmd
+14143,21,8494231,long method,minor,2019-09-02 08:59:41.511150,function,com.cloud.resource.ResourceManagerImpl#discoverHosts AddHostCmd
+2233,3,8997948,feature envy,none,2019-04-01 13:31:57.013040,function,org.apache.lucene.analysis.ja.util.CharacterDefinitionWriter#write String
+11121,10,8997948,feature envy,minor,2019-08-02 12:10:43.070382,function,org.apache.lucene.analysis.ja.util.CharacterDefinitionWriter#write String
+13297,1,8997948,feature envy,none,2019-08-29 13:24:23.485904,function,org.apache.lucene.analysis.ja.util.CharacterDefinitionWriter#write String
+2234,3,8997948,long method,minor,2019-04-01 13:31:57.013631,function,org.apache.lucene.analysis.ja.util.CharacterDefinitionWriter#write String
+11120,10,8997948,long method,none,2019-08-02 12:10:43.069566,function,org.apache.lucene.analysis.ja.util.CharacterDefinitionWriter#write String
+13298,1,8997948,long method,none,2019-08-29 13:24:23.493414,function,org.apache.lucene.analysis.ja.util.CharacterDefinitionWriter#write String

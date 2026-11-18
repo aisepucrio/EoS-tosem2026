@@ -1,0 +1,131 @@
+category,level,difficulty,participant_id,snippet_id,smells_spreadsheet,DC,LM,FE,Others,None,in_sample,duplicate,smells_questionnaire
+Application Domain Knowledge,Basic,Yes,15,9,None,False,False,False,False,True,True,False,None
+Application Domain Knowledge,Not Understand,Yes,11,10,Data Class,True,False,False,False,False,True,False,Data Class
+Class or Method Cohesion and Responsibility,Basic,Yes,16,2,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Class or Method Cohesion and Responsibility,Basic,Yes,26,6,Others,False,False,False,True,False,True,False,Others
+Class or Method Cohesion and Responsibility,Intermediate,Yes,14,12,None,False,False,False,False,True,True,False,None
+Class or Method Cohesion and Responsibility,Intermediate,Yes,15,2,None,False,False,False,False,True,True,False,None
+Class or Method Cohesion and Responsibility,Intermediate,Yes,12,2,Long Method,False,True,False,False,False,True,False,Long Method
+Class or Method Cohesion and Responsibility,Not Understand,Yes,8,11,Long Method,False,True,False,False,False,True,False,Long Method
+Class or Method Cohesion and Responsibility,Not Understand,Yes,11,9,"Long Method, Others",False,True,False,False,False,True,False,Long Method
+Class or Method Cohesion and Responsibility,Not Understand,Yes,16,9,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Class or Method Cohesion and Responsibility,Not Understand,Yes,11,12,Others,False,False,False,True,False,True,False,Others
+Code Length,Basic,Yes,5,2,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Basic,Yes,16,2,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Code Length,Basic,Yes,16,4,Feature Envy,False,False,True,False,False,True,False,Feature Envy
+Code Length,Basic,Yes,15,5,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Basic,Yes,22,5,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Basic,Yes,22,9,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Basic,Yes,9,9,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Basic,No,12,11,None,False,False,False,False,True,True,False,None
+Code Length,Intermediate,Yes,3,2,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Intermediate,Yes,8,2,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Intermediate,Yes,19,2,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Code Length,Intermediate,No,10,3,None,False,False,False,False,True,True,False,None
+Code Length,Intermediate,No,14,11,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Full,Yes,14,9,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Not Understand,Yes,5,9,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Not Understand,Yes,3,9,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Code Length,Not Understand,Yes,9,2,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Not Understand,Yes,16,9,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Code Length,Not Understand,Yes,3,11,Long Method,False,True,False,False,False,True,False,Long Method
+Code Length,Not Understand,Yes,9,13,None,False,False,False,False,True,True,False,None
+Code Length,Not Understand,No,17,9,Long Method,False,True,False,False,False,True,False,Long Method
+Coding Style Inconsistency,Basic,Yes,16,12,Feature Envy,False,False,True,False,False,True,False,Feature Envy
+Coding Style Inconsistency,Basic,Yes,20,12,None,False,False,False,False,True,True,False,None
+Coding Style Inconsistency,Intermediate,Yes,22,12,None,False,False,False,False,True,True,False,None
+Coding Style Inconsistency,Intermediate,Yes,20,2,None,False,False,False,False,True,True,False,None
+Coding Style Inconsistency,Intermediate,Yes,23,2,Others,False,False,False,True,False,True,False,Others
+Coding Style Inconsistency,Not Understand,Yes,17,12,None,False,False,False,False,True,True,False,None
+Complex Control Structure,Basic,Yes,21,11,Long Method,,,,,,False,False,
+Complex Control Structure,Intermediate,No,10,11,Long Method,False,True,False,False,False,True,False,Long Method
+Complex Control Structure,Not Understand,Yes,13,5,Long Method,False,True,False,False,False,True,False,Long Method
+Complex Control Structure,Not Understand,Yes,2,11,Long Method,,,,,,False,False,
+Confusing Names,Basic,Yes,16,2,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Confusing Names,Basic,Yes,22,4,None,False,False,False,False,True,True,False,None
+Confusing Names,Basic,Yes,24,4,Others,False,False,False,True,False,True,False,Others
+Confusing Names,Basic,Yes,26,4,Others,False,False,False,True,False,True,False,Others
+Confusing Names,Basic,Yes,27,4,Others,False,False,False,True,False,True,False,Others
+Confusing Names,Basic,Yes,22,5,Long Method,False,True,False,False,False,True,False,Long Method
+Confusing Names,Basic,Yes,25,5,None,False,False,False,False,True,True,False,None
+Confusing Names,Intermediate,Yes,24,12,None,False,False,False,False,True,True,False,None
+Confusing Names,Full,Yes,25,2,Feature Envy,False,False,True,False,False,True,False,Feature Envy
+Confusing Names,Full,Yes,20,9,Others,False,False,False,True,False,True,False,Others
+Confusing Names,Not Understand,Yes,21,5,None,,,,,,False,False,
+Confusing Names,Not Understand,Yes,18,7,None,False,False,False,False,True,True,False,None
+Confusing Names,Not Understand,Yes,11,8,"Data Class, Feature Envy",True,False,True,False,False,True,False,"Data Class, Feature Envy"
+Confusing Names,Not Understand,Yes,21,9,None,,,,,,False,False,
+Confusing Names,Not Understand,Yes,11,5,"Data Class, Long Method",True,True,False,False,False,True,False,"Data Class, Long Method"
+Confusing Names,Not Understand,No,11,7,Data Class,True,False,False,False,False,True,False,Data Class
+Use of Encapsulation,Basic,Yes,5,4,Long Method,False,True,False,False,False,True,False,Long Method
+Use of Encapsulation,Not Understand,Yes,11,3,"Data Class, Feature Envy",True,False,True,False,False,True,False,"Data Class, Feature Envy"
+Complex Dependencies and Inter-class Interactions,Basic,Yes,25,5,None,False,False,False,False,True,True,False,None
+Complex Dependencies and Inter-class Interactions,Intermediate,Yes,10,2,None,,,,,,False,False,
+Complex Dependencies and Inter-class Interactions,Intermediate,Yes,13,2,Feature Envy,False,False,True,False,False,True,False,Feature Envy
+Complex Dependencies and Inter-class Interactions,Not Understand,Yes,9,2,Long Method,False,True,False,False,False,True,False,Long Method
+Complex Dependencies and Inter-class Interactions,Not Understand,Yes,3,9,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Complex Dependencies and Inter-class Interactions,Not Understand,Yes,12,10,None,False,False,False,False,True,True,False,None
+Complex Dependencies and Inter-class Interactions,Not Understand,Yes,18,10,Others,False,False,False,True,False,True,False,Others
+Excessive Variables or Parameters,Basic,Yes,22,9,Long Method,False,True,False,False,False,True,False,Long Method
+Excessive Variables or Parameters,Basic,Yes,22,4,None,False,False,False,False,True,True,False,None
+Excessive Variables or Parameters,Basic,Yes,1,9,"Data Class, Long Method, Feature Envy",True,True,True,False,False,True,False,"Data Class, Long Method, Feature Envy"
+Excessive Variables or Parameters,Basic,Yes,17,2,Others,False,False,False,True,False,True,False,Others
+Excessive Variables or Parameters,Not Understand,Yes,3,9,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Lack or Absence of Adequate Comments,Basic,Yes,2,2,Feature Envy,,,,,,False,False,
+Lack or Absence of Adequate Comments,Basic,Yes,5,2,Long Method,False,True,False,False,False,True,False,Long Method
+Lack or Absence of Adequate Comments,Basic,Yes,16,4,Feature Envy,False,False,True,False,False,True,False,Feature Envy
+Lack or Absence of Adequate Comments,Basic,Yes,26,6,Others,False,False,False,True,False,True,False,Others
+Lack or Absence of Adequate Comments,Basic,Yes,22,5,Long Method,False,True,False,False,False,True,False,Long Method
+Lack or Absence of Adequate Comments,Intermediate,Yes,19,2,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Lack or Absence of Adequate Comments,Intermediate,Yes,24,6,None,False,False,False,False,True,True,False,None
+Lack or Absence of Adequate Comments,Intermediate,Yes,26,12,Others,False,False,False,True,False,True,False,Others
+Lack or Absence of Adequate Comments,Intermediate,No,5,6,None,False,False,False,False,True,True,False,None
+Lack or Absence of Adequate Comments,Full,Yes,6,13,Others,False,False,False,True,False,True,False,Others
+Lack or Absence of Adequate Comments,Not Understand,Yes,9,13,None,False,False,False,False,True,True,False,None
+Lack or Absence of Adequate Comments,Not Understand,Yes,26,2,None,False,False,False,False,True,True,False,None
+Lack or Absence of Adequate Comments,Not Understand,No,11,2,"Data Class, Long Method, Feature Envy",True,True,True,False,False,True,False,"Data Class, Long Method, Feature Envy"
+Lack or Absence of Adequate Comments,Not Understand,No,11,7,Data Class,True,False,False,False,False,True,False,Data Class
+Lack or Absence of Adequate Comments,Not Understand,No,15,10,None,False,False,False,False,True,True,False,None
+Language Syntax,Basic,Yes,4,4,None,False,False,False,False,True,True,False,None
+Language Syntax,Intermediate,Yes,10,5,Others,False,False,False,True,False,True,False,Others
+Language Syntax,Intermediate,Yes,19,5,None,False,False,False,False,True,True,False,None
+Language Syntax,Not Understand,Yes,8,4,Others,False,False,False,True,False,True,False,Others
+Language Syntax,Not Understand,Yes,5,5,Long Method,False,True,False,False,False,True,False,Long Method
+Language Syntax,Not Understand,Yes,17,5,None,False,False,False,False,True,True,False,None
+Language Syntax,Not Understand,Yes,18,5,None,False,False,False,False,True,True,False,None
+Language Syntax,Not Understand,Yes,23,12,Others,False,False,False,True,False,True,False,Others
+Language Syntax,Not Understand,Yes,11,13,None,False,False,False,False,True,True,False,None
+Language Syntax,Not Understand,Yes,21,13,None,,,,,,False,False,
+Language Syntax,Not Understand,No,18,9,None,False,False,False,False,True,True,False,None
+Logical Complexity,Basic,Yes,9,11,None,False,False,False,False,True,True,False,None
+Logical Complexity,Basic,Yes,10,12,None,False,False,False,False,True,True,False,None
+Logical Complexity,Basic,Yes,10,6,None,False,False,False,False,True,True,False,None
+Logical Complexity,Basic,Yes,21,6,None,,,,,,False,False,
+Logical Complexity,Basic,Yes,8,8,Feature Envy,False,False,True,False,False,True,False,Feature Envy
+Logical Complexity,Basic,Yes,8,10,None,False,False,False,False,True,True,False,None
+Logical Complexity,Basic,Yes,1,9,"Data Class, Long Method, Feature Envy",True,True,True,False,False,True,False,"Data Class, Long Method, Feature Envy"
+Logical Complexity,Basic,No,18,2,None,False,False,False,False,True,True,False,None
+Logical Complexity,Basic,No,1,11,Long Method,False,True,False,False,False,True,False,Long Method
+Logical Complexity,Basic,No,6,2,Others,False,False,False,True,False,True,False,Others
+Logical Complexity,Intermediate,Yes,20,2,None,False,False,False,False,True,True,False,None
+Logical Complexity,Intermediate,Yes,10,2,None,,,,,,False,False,
+Logical Complexity,Intermediate,Yes,14,2,None,False,False,False,False,True,True,False,None
+Logical Complexity,Intermediate,Yes,4,9,Feature Envy,False,False,True,False,False,True,False,Feature Envy
+Logical Complexity,Intermediate,Yes,27,2,Long Method,,,,,,False,False,
+Logical Complexity,Intermediate,Yes,10,2,None,,,,,,False,True,
+Logical Complexity,Intermediate,No,26,11,None,False,False,False,False,True,True,False,None
+Logical Complexity,Full,Yes,20,9,Others,False,False,False,True,False,True,False,Others
+Logical Complexity,Full,No,6,9,Others,False,False,False,True,False,True,False,Others
+Logical Complexity,Not Understand,Yes,20,5,"Long Method, Feature Envy",False,True,True,False,False,True,False,"Long Method, Feature Envy"
+Logical Complexity,Not Understand,Yes,5,9,Long Method,False,True,False,False,False,True,False,Long Method
+Logical Complexity,Not Understand,Yes,8,9,Long Method,False,True,False,False,False,True,False,Long Method
+Logical Complexity,Not Understand,Yes,10,9,None,False,False,False,False,True,True,False,None
+Logical Complexity,Not Understand,Yes,3,11,Long Method,False,True,False,False,False,True,False,Long Method
+Logical Complexity,Not Understand,Yes,11,11,Data Class,True,True,False,False,False,True,False,"Data Class, Long Method"
+Logical Complexity,Not Understand,No,11,2,"Data Class, Long Method, Feature Envy",True,True,True,False,False,True,False,"Data Class, Long Method, Feature Envy"
+Logical Complexity,Not Understand,No,11,7,Data Class,True,False,False,False,False,True,False,Data Class
+Use of Polymorphism,Intermediate,Yes,4,5,Others,False,False,False,True,False,True,False,Others
+Use of Polymorphism,Not Understand,Yes,27,5,Long Method,False,True,False,False,False,True,False,Long Method
+Use of Recursion,Basic,Yes,15,5,Long Method,False,True,False,False,False,True,False,Long Method
+Use of Recursion,Intermediate,Yes,4,5,Others,False,False,False,True,False,True,False,Others
+Use of Recursion,Intermediate,No,1,5,Feature Envy,False,False,True,False,False,True,False,Feature Envy

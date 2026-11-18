@@ -1,0 +1,27 @@
+participant_id,occupation,student_level,education,prog_years,java_years,smell_familiarity,recognizes_long_method,recognizes_data_class,recognizes_feature_envy,current_role_raw,prog_raw,java_raw,recognizes_all_study_smells,prog_band,java_band,in_analytic_sample
+1,Practitioner (not a student),,Bachelor's degree,4.0,0.5,Knows them (may have used tools),True,True,True,Software Developer/Engineer,4Y,Desenvolvi em Java por 6 meses.,True,3--5 years,$<$ 1 year,True
+2,Student only,Master's,Bachelor's degree,2.5,0.33,Knows them (may have used tools),True,False,False,Student - Master level,2Y6M,4M,False,1--3 years,$<$ 1 year,False
+3,Student and practitioner,PhD,Master's degree,21.0,6.5,"Heard of them, never dug deeper",True,False,True,"Student - PhD level, Lecturer",21 years of programming and around 6-7 years programming in Java.,6-7 years.,False,$\geq$ 10 years,$\geq$ 5 years,True
+4,Student and practitioner,Bachelor's,Secondary school,3.0,0.0,Knows them (may have used tools),False,True,True,"Student - Bachelor level, Junior Software Developer/Engineer",3Y,0Y0M,False,3--5 years,None,True
+5,Student only,Bachelor's,Secondary school,6.0,0.33,"Heard of them, never dug deeper",True,True,True,Student - Bachelor level,6Y0M,4M,True,5--10 years,$<$ 1 year,True
+6,Practitioner (not a student),,Doctorate,23.0,10.0,"Heard of them, never dug deeper",False,False,False,Lecturer,23Y,more than 10 years,False,$\geq$ 10 years,$\geq$ 5 years,True
+8,Student and practitioner,Master's,Bachelor's degree,7.08,,"Heard of them, never dug deeper",True,True,True,"Student - Master level, Software Developer/Engineer",7Y1M,"Aprendi na graduação, porém não tenho muito conhecimento",True,5--10 years,Not reported,True
+9,Student only,Bachelor's,Secondary school,0.0,0.0,"Heard of them, never dug deeper",True,True,True,Student - Bachelor level,0Y0M,0Y0M,True,$<$ 1 year,None,True
+10,Student and practitioner,Bachelor's,Secondary school,4.0,0.5,"Heard of them, never dug deeper",True,True,False,"Student - Bachelor level, Junior Software Developer/Engineer",4Y0M,0Y6M,False,3--5 years,$<$ 1 year,True
+11,Student and practitioner,Master's,Master's degree,3.2,0.0,Knows them (may have used tools),True,False,False,"Student - Master level, Junior Software Developer/Engineer, Architect",2021-01-01,0,False,3--5 years,None,True
+12,Student only,Bachelor's,Secondary school,1.25,0.17,First heard of them in this study,False,False,False,Student - Bachelor level,1Y3M,2 months,False,1--3 years,$<$ 1 year,True
+13,Student only,Bachelor's,Secondary school,5.33,0.17,"Heard of them, never dug deeper",True,True,True,Student - Bachelor level,5Y4M,0Y2M,True,5--10 years,$<$ 1 year,True
+14,Student and practitioner,Bachelor's,Secondary school,1.75,0.5,Knows them (may have used tools),True,True,True,"Student - Bachelor level, Junior Software Developer/Engineer",1Y9M,6M,True,1--3 years,$<$ 1 year,True
+15,Student and practitioner,Bachelor's,Secondary school,2.25,0.0,Knows them (may have used tools),True,True,False,"Student - Bachelor level, Junior Software Developer/Engineer",2Y3M,0Y0M,False,1--3 years,None,True
+16,Student and practitioner,Bachelor's,Secondary school,1.92,0.17,Knows them (may have used tools),True,True,False,"Student - Bachelor level, Data Scientist",1Y11M,0Y2M,False,1--3 years,$<$ 1 year,True
+17,Student only,Bachelor's,Secondary school,2.0,0.0,Knows them (may have used tools),True,True,True,Student - Bachelor level,2Y,0Y,True,1--3 years,None,True
+18,Student and practitioner,Bachelor's,Secondary school,0.58,0.0,Knows them (may have used tools),True,True,False,"Student - Bachelor level, Data Scientist",0Y7M,0Y0M,False,$<$ 1 year,None,True
+19,Student and practitioner,Bachelor's,Secondary school,0.75,0.42,Knows them (may have used tools),True,True,True,"Student - Bachelor level, Junior Software Developer/Engineer",0Y9M,0Y5M,True,$<$ 1 year,$<$ 1 year,True
+20,Student and practitioner,Bachelor's,Secondary school,2.33,0.08,Knows them (may have used tools),True,True,True,"Student - Bachelor level, Junior Software Developer/Engineer",2Y4M,1M,True,1--3 years,$<$ 1 year,True
+21,Student only,Bachelor's,Secondary school,4.0,0.0,"Heard of them, never dug deeper",True,False,False,Student - Bachelor level,4Y,0Y,False,3--5 years,None,False
+22,Student and practitioner,Bachelor's,Secondary school,2.0,0.0,"Heard of them, never dug deeper",True,True,True,"Student - Bachelor level, Junior Software Developer/Engineer, Project Manager",2Y,0M,True,1--3 years,None,True
+23,Student only,Bachelor's,Secondary school,0.0,0.0,"Heard of them, never dug deeper",True,True,False,Student - Bachelor level,0Y0M,0Y0M,False,$<$ 1 year,None,True
+24,Student only,Bachelor's,Secondary school,4.5,1.08,"Heard of them, never dug deeper",True,True,False,Student - Bachelor level,4y6m,1y1m,False,3--5 years,1--5 years,True
+25,Student and practitioner,Bachelor's,Secondary school,3.83,0.0,Knows them (may have used tools),True,True,True,"Student - Bachelor level, Junior Software Developer/Engineer",3Y10M,0Y0M,True,3--5 years,None,True
+26,Student and practitioner,Bachelor's,Secondary school,2.33,0.83,"Heard of them, never dug deeper",True,True,False,"Student - Bachelor level, Other management role",2Y4M,0Y10M,False,1--3 years,$<$ 1 year,True
+27,Student only,Bachelor's,Secondary school,2.5,0.0,"Heard of them, never dug deeper",True,True,True,Student - Bachelor level,2Y6M,0Y,True,1--3 years,None,True

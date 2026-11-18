@@ -1,0 +1,8 @@
+Indicator,Comparison,n,Δ (p.p.),95% CI Δ,p,p_FDR,p-hat,95% CI p-hat
+P(Bottom-Up Inside),Smell vs. Clean,24,4.56,"[1.09, 8.03]",0.0134,0.0941,0.58,"[0.38, 0.79]"
+P(Top-Down Inside),Smell vs. Clean,24,-3.16,"[-6.02, -0.30]",0.0324,0.1134,0.38,"[0.21, 0.58]"
+P(Bottom-Up Outside),Smell vs. Clean,24,-1.30,"[-3.75, 1.15]",0.2767,0.6456,0.42,"[0.21, 0.62]"
+P(Top-Down Outside),Smell vs. Clean,24,-0.31,"[-1.82, 1.20]",0.6675,0.7934,0.50,"[0.29, 0.71]"
+P(Top-to-Bottom),Smell vs. Clean,24,-0.19,"[-1.41, 1.03]",0.7422,0.7934,0.54,"[0.33, 0.75]"
+P(Thorough) @ 1000 ms,Smell vs. Clean,24,0.40,"[-1.56, 2.36]",0.6684,0.7934,0.50,"[0.29, 0.71]"
+P(Sectionally) @ three-line moving window,Smell vs. Clean,24,-0.41,"[-3.72, 2.90]",0.7934,0.7934,0.38,"[0.21, 0.58]"

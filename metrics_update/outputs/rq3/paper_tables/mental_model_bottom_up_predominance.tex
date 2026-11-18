@@ -1,0 +1,24 @@
+\begin{table}[t]
+    \centering
+    \footnotesize
+    \caption{Predominance analysis for the overall Bottom-Up proportion across perceived smell categories. $\Delta_{0.50}$ represents the difference between the participant-level 20\% trimmed mean and 0.50, expressed in percentage points.}
+    \label{tab:mental_model_bottom_up_predominance}
+    \setlength{\tabcolsep}{3pt}
+    \renewcommand{\arraystretch}{1.15}
+    \resizebox{\columnwidth}{!}{%
+    \begin{tabular}{l r r r r r c}
+        \toprule
+             &     & \textbf{Trimmed} & \textbf{$\Delta_{0.50}$} & & & \textbf{95\% CI} \\
+        \textbf{Type} & \textbf{$n$} & \textbf{mean} & \textbf{(p.p.)} &
+        \textbf{$p_{\mathrm{FDR}}$} & \textbf{$\hat{p}_{\mathrm{pred}}$} &
+        \textbf{$\hat{p}_{\mathrm{pred}}$} \\
+        \midrule
+        LM     & 20 & 0.689 & 18.92 & $<0.0001$ & 1.00 & [1.00, 1.00] \\
+        DC     & 19 & 0.628 & 12.75 & 0.0001 & 0.89 & [0.74, 1.00] \\
+        FE     & 15 & 0.612 & 11.17 & 0.0004 & 1.00 & [1.00, 1.00] \\
+        Others & 19 & 0.719 & 21.93 & $<0.0001$ & 1.00 & [1.00, 1.00] \\
+        None   & 24 & 0.629 & 12.94 & $<0.0001$ & 1.00 & [1.00, 1.00] \\
+        \bottomrule
+    \end{tabular}%
+    }
+\end{table}

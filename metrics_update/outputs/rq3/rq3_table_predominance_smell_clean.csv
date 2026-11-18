@@ -1,0 +1,9 @@
+Indicator,Condition,n,Trimmed mean,Δ vs. 0.50 (p.p.),95% CI Δ,p,p_FDR,p_pred,95% CI p_pred,n > 0.50,n < 0.50,n = 0.50,Predominance
+P(Bottom-Up overall),Smell,24,0.666,16.57,"[13.67, 19.46]",0.0000,0.0000,0.96,"[0.88, 1.00]",23,1,0,Bottom-Up
+P(Bottom-Up overall),Clean,24,0.629,12.94,"[9.19, 16.69]",0.0000,0.0000,1.00,"[1.00, 1.00]",24,0,0,Bottom-Up
+P(Top-to-Bottom),Smell,24,0.524,2.41,"[1.44, 3.38]",0.0001,0.0001,0.88,"[0.75, 1.00]",21,3,0,Top-to-Bottom
+P(Top-to-Bottom),Clean,24,0.526,2.60,"[1.45, 3.76]",0.0002,0.0003,0.88,"[0.75, 1.00]",21,3,0,Top-to-Bottom
+P(Thorough) @ 1000 ms,Smell,24,0.100,-39.98,"[-41.20, -38.77]",0.0000,0.0000,0.00,"[0.00, 0.00]",0,24,0,Skimming
+P(Thorough) @ 1000 ms,Clean,24,0.096,-40.38,"[-42.78, -37.99]",0.0000,0.0000,0.00,"[0.00, 0.00]",0,24,0,Skimming
+P(Sectionally) @ three-line moving window,Smell,24,0.523,2.31,"[-0.91, 5.54]",0.1473,0.1473,0.58,"[0.38, 0.79]",14,10,0,No clear predominance
+P(Sectionally) @ three-line moving window,Clean,24,0.527,2.73,"[-0.37, 5.82]",0.0802,0.0916,0.62,"[0.42, 0.83]",15,9,0,No clear predominance

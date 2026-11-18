@@ -1,0 +1,16 @@
+participant_id,snippet_id,duration,inside,source_file_line
+3,2,1464054,True,76
+1,13,119960,True,953
+20,9,63716,True,577
+17,6,61065,True,160
+17,2,51542,True,89
+14,9,45213,True,606
+19,2,37370,True,84
+25,10,35472,False,165
+24,2,31972,True,91
+15,5,28779,True,194
+23,3,27195,True,34
+9,2,25886,True,85
+14,2,25694,True,85
+23,7,23641,True,30
+17,6,23350,True,158

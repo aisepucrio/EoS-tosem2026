@@ -1,0 +1,32 @@
+\begin{table*}[ht]
+\centering
+\caption{Characteristics of the code snippets. LOC = non-blank lines of the target code as displayed to
+participants. Tokens = lexical Java tokens of the target code (comments excluded). Complexity = McCabe cyclomatic complexity of the method (CC) for method-level
+snippets and Weighted Methods per Class (WMC, sum of method CCs; abstract methods count 1) for class-level
+snippets. Chunks = number of areas of interest into which the target code was divided for the eye-tracking analysis.
+Reviews = MLCQ reviews of the same sample for the same smell; Ratings lists them in chronological order
+(N = none, Mi = minor, Ma = major, C = critical). Aggregation rule: the severity used in the study is the rating
+of a single MLCQ review (no aggregation); the majority rating (ties toward the more severe level) is shown for
+comparison. $^{\dagger}$ Severity used differs from the majority rating.}
+\label{tab:snippet_characteristics}
+\begin{tabular}{rllrrrrlrll}
+\toprule
+ID & Smell & Granularity & LOC & Tokens & Complexity & Chunks & Severity (used) & Reviews & Ratings & Majority \\
+\midrule
+2 & LM & Function & 21 & 178 & 4 & 6 & Minor$^{\dagger}$ & 3 & Mi/N/N & None \\
+9 & LM & Function & 35 & 288 & 7 & 6 & Major$^{\dagger}$ & 3 & Mi/Ma/Mi & Minor \\
+11 & LM & Function & 30 & 237 & 6 & 7 & Critical$^{\dagger}$ & 3 & C/Mi/Mi & Minor \\
+12 & LM & Function & 17 & 91 & 4 & 5 & None & 1 & N & None \\
+\midrule
+3 & DC & Class & 16 & 66 & 3 & 4 & Minor & 3 & Mi/Mi/N & Minor \\
+7 & DC & Class & 29 & 75 & 6 & 7 & Critical$^{\dagger}$ & 3 & C/N/N & None \\
+8 & DC & Class & 19 & 78 & 4 & 5 & None & 1 & N & None \\
+13 & DC & Class & 13 & 127 & 10 & 3 & Major$^{\dagger}$ & 4 & Ma/N/N/Mi & None \\
+\midrule
+4 & FE & Function & 14 & 42 & 1 & 3 & Critical$^{\dagger}$ & 4 & C/N/Mi/N & None \\
+5 & FE & Function & 36 & 126 & 5 & 4 & Major & 3 & Ma/Ma/Mi & Major \\
+6 & FE & Function & 16 & 90 & 4 & 5 & None & 3 & N/N/N & None \\
+10 & FE & Function & 11 & 91 & 2 & 5 & Minor & 2 & Mi/Mi & Minor \\
+\bottomrule
+\end{tabular}
+\end{table*}

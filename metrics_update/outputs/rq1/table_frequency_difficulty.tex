@@ -1,0 +1,24 @@
+% Requires \usepackage{booktabs}.
+\begin{table*}[t]
+\footnotesize
+\centering
+\caption{Frequency of perceived code smells grouped by level of comprehension and self-admitted difficulty (Y = yes, N = no). Counts are the citations of Table~\ref{tab:code-smell-categories-Difficulty}, each counted once per perceived smell.}
+\label{tab:smell-frequency-level-difficulty}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}l *{10}{c} @{\hspace{10pt}} ccc@{}}
+\toprule
+& \multicolumn{2}{c}{\textbf{None}} & \multicolumn{2}{c}{\textbf{DC}}
+& \multicolumn{2}{c}{\textbf{LM}}   & \multicolumn{2}{c}{\textbf{FE}}
+& \multicolumn{2}{c}{\textbf{Others}} & \multicolumn{3}{c}{\textbf{Total}} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}\cmidrule(lr){8-9}\cmidrule(lr){10-11}\cmidrule(l){12-14}
+\textbf{Level of comprehension} & Y & N & Y & N & Y & N & Y & N & Y & N & Y & N & \% Y \\
+\midrule
+No understanding & 10 & 2  & 5  & 5  & 20 & 3  & 8  & 2  & 4  & 0  & 47 & 12 & 80 \\
+Basic            & 11 & 2  & 2  & 0  & 16 & 1  & 9  & 0  & 6  & 1  & 44 & 4  & 92 \\
+Intermediate     & 9  & 3  & 0  & 0  & 5  & 2  & 4  & 1  & 5  & 0  & 23 & 6  & 79 \\
+Full             & 0  & 0  & 0  & 0  & 1  & 0  & 1  & 0  & 3  & 1  & 5  & 1  & 83 \\
+\midrule
+\textbf{Total}   & \textbf{30} & \textbf{7} & \textbf{7} & \textbf{5} & \textbf{42} & \textbf{6} & \textbf{22} & \textbf{3} & \textbf{18} & \textbf{2} & \textbf{119} & \textbf{23} & \textbf{84} \\
+\bottomrule
+\end{tabular}
+\end{table*}

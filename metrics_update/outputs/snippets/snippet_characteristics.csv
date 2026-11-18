@@ -1,0 +1,13 @@
+snippet_id,smell,granularity,region_start,region_end,loc,n_tokens,n_chars,file_loc,sloc_mlcq,complexity,complexity_metric,n_methods,n_chunks,severity_used,review_id_used,n_reviews,ratings,majority_severity,lower_median_severity,matches_majority
+2,LM,function,74,94,21,178,669,82,21,4,CC,1,6,minor,2234,3,Mi/N/N,none,none,False
+9,LM,function,574,612,35,288,1343,2593,34,7,CC,1,6,major,10122,3,Mi/Ma/Mi,minor,minor,False
+11,LM,function,441,471,30,237,1020,620,27,6,CC,1,7,critical,2738,3,C/Mi/Mi,minor,minor,False
+12,LM,function,552,570,17,91,367,598,16,4,CC,1,5,none,813,1,N,none,none,True
+3,DC,class,19,40,16,66,296,32,16,3,WMC,3,4,minor,4936,3,Mi/Mi/N,minor,minor,True
+7,DC,class,21,55,29,75,480,46,20,6,WMC,6,7,critical,9748,3,C/N/N,none,none,False
+8,DC,class,29,52,19,78,462,44,19,4,WMC,4,5,none,777,1,N,none,none,True
+13,DC,class,937,958,13,127,506,994,13,10,WMC,10,3,major,3255,4,Ma/N/N/Mi,none,none,False
+4,FE,function,104,117,14,42,268,172,14,1,CC,1,3,critical,3061,4,C/N/Mi/N,none,none,False
+5,FE,function,190,226,36,126,737,355,30,5,CC,1,4,major,742,3,Ma/Ma/Mi,major,major,True
+6,FE,function,149,166,16,90,293,144,15,4,CC,1,5,none,755,3,N/N/N,none,none,True
+10,FE,function,151,164,11,91,342,731,11,2,CC,1,5,minor,1994,2,Mi/Mi,minor,minor,True
